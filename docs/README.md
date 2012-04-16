@@ -47,3 +47,5 @@ http://railscasts.com/
 
 https://www.rubytoolbox.com/
 
+http://www.agilewebdevelopment.com/
+
